@@ -1,7 +1,8 @@
-# __Best Active Pitch: Mason Miller’s Slider__
+# __2025 MLB Pitch-Level Analysis__
 
 ## __Objective:__
 Identify the most effective individual pitch in MLB during the 2025 season using publicly available pitch-level outcome metrics.
+
 
 ## __Methods:__ 
 Using __Baseball Savant’s 2025 Pitch Arsenal Stats Leaderboard__, I analyzed every pitch thrown at least 406 times (Baseball Savant’s qualifier) in 2025. To evaluate overall effectiveness, each pitch was ranked across key performance metrics — ***Run Value, RV/100, Batting Average (BA), Slugging Percentage (SLG), Weighted On-Base Average (wOBA), Strikeout Percentage (K%), Put-Away Percentage, and their expected and hard-hit variants*** — using Excel’s __RANK.EQ__ function. Rankings were summed to create an overall performance score, with lower totals indicating stronger overall effectiveness.
@@ -9,7 +10,7 @@ Using __Baseball Savant’s 2025 Pitch Arsenal Stats Leaderboard__, I analyzed e
 ## __Results:__
 Mason Miller's slider ranked as the overall top-performing pitch among all qualifying pitches.
 
-## __Mason Miller’s SL Rankings:__
+## ___Mason Miller’s SL Rankings:___
 - Run Value (18th)
 - ***RV/100 (1st)***
 - ***Batting Average (1st)***
