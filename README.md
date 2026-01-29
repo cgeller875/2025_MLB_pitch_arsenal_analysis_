@@ -1,4 +1,4 @@
-# __2025 MLB Pitch-Level Analysis__
+# __2025 MLB Pitch-Level Rankings Analysis__
 
 ## __Objective:__
 Identify the most effective individual pitch in MLB during the 2025 season using publicly available pitch-level outcome metrics.
@@ -10,7 +10,7 @@ Using __Baseball Savant’s 2025 Pitch Arsenal Stats Leaderboard__, I analyzed e
 ## __Results:__
 Mason Miller's slider ranked as the overall top-performing pitch among all qualifying pitches.
 
-## ___Mason Miller’s SL Rankings:___
+### __Mason Miller’s SL Rankings:__
 - Run Value (18th)
 - ***RV/100 (1st)***
 - ***Batting Average (1st)***
